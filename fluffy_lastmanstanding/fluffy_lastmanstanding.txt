@@ -1,0 +1,7 @@
+"minigames"
+{
+	"base"	"fluffy_mg_base"
+	"title"	"Last Man Standing"
+	"maps"	"^lms_"
+	"category" 	"pvp"
+}
